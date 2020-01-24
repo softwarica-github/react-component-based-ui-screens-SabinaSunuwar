@@ -403,23 +403,8 @@ class Index extends React.Component {
         return (
           <Container>
   <Row style={{marginBottom:'30px'}}>
-    <Col sm={8}>
-    <Card >
-  <Card.Body>
-    <Card.Title>Hello</Card.Title>
-    <Card.Subtitle className="mb-2 text-muted">My assignmnet</Card.Subtitle>
-    <Card.Text>
-      Some quick example text to build on the card title and make up the bulk of
-      the card's content.
-    </Card.Text>
-    <Card.Link href="#">Learn More </Card.Link>
-    <Card.Link href="#">Another Link</Card.Link>
-  </Card.Body>
-</Card>
-    </Col>
-    <Col sm={4}>
-        <h2>Welcome </h2>
-    </Col>
+    
+
   </Row> 
             <div> {/* for wrapping jsx components or use Fragment <> </> */}
                 
