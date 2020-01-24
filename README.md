@@ -11,6 +11,8 @@ This is a simple UI Screens - React based components.
 
 • Use command npm install to download all necessary packages from npm.
 
+• Use command npm install --save react-bootstrap.
+
 • Use npm run build to start the project.
 
 • Your app will run at port 3000.
