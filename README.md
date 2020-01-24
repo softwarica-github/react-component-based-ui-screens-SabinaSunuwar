@@ -2,10 +2,10 @@
 
 This is a simple UI Screens - React based components.
 
-Usage guideline
+# Usage guideline
 
-• Clone the repository at your desired location
-git clone https://github.com/SabinaSunuwar/SabinaSunuwar-UI-Screens-React-based-components.git
+• Clone the repository at your desired location git clone 
+  https://github.com/SabinaSunuwar/SabinaSunuwar-UI-Screens-React-based-components.git
 
 • cd into the folder UI-Screens-React-based-components.
 
